@@ -9,8 +9,8 @@
 
 ## Notes
 
-- Watson is a cognitive system and it can understand language nuances, reason and learn via machine learning.
-- Watson is a platform of APIs processing speach, text and images.
+- Watson is a cognitive system and it can understand language nuances, reason and learn.
+- Watson is a platform of APIs processing speech, text and images.
 
 
 ## Sources
